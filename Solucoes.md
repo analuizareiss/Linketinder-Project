@@ -25,3 +25,5 @@ rm -r foo
 ## **7. (B) Imprimir "Hello World"**
 echo "Hello World" 
 
+## **8. (B) Criar hello.txt com "Hello World"**
+echo "Hello World" > hello.txt
