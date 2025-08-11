@@ -21,3 +21,4 @@ mkdir -p foo/bar/1/2/3
 
 ## **6. (B) Remover diretório foo**
 rm -r foo
+
