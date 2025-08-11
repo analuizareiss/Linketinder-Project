@@ -22,3 +22,6 @@ mkdir -p foo/bar/1/2/3
 ## **6. (B) Remover diretório foo**
 rm -r foo
 
+## **7. (B) Imprimir "Hello World"**
+echo "Hello World" 
+
