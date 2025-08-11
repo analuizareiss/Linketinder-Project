@@ -18,3 +18,4 @@ mkdir foo
 
 ## **5. (I) Criar foo/bar/1/2/3**
 mkdir -p foo/bar/1/2/3
+
