@@ -27,3 +27,6 @@ echo "Hello World"
 
 ## **8. (B) Criar hello.txt com "Hello World"**
 echo "Hello World" > hello.txt
+
+## **9. (B) Criar empty.txt (vazio)**
+touch empty.txt
