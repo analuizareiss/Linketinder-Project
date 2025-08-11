@@ -9,3 +9,6 @@ tar -xzf challenges.tar.gz
 
 ## **2. (B) Entrar no diretório challenges**
 cd challenges
+
+## **3. (B) Listar conteúdo**
+ls
