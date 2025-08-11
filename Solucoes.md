@@ -13,3 +13,6 @@ cd challenges
 ## **3. (B) Listar conteúdo**
 ls
 
+## **4. (B) Criar diretório foo**
+mkdir foo
+
