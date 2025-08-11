@@ -15,3 +15,4 @@ ls
 
 ## **4. (B) Criar diretório foo**
 mkdir foo
+
