@@ -15,3 +15,12 @@ ls
 
 ## **4. (B) Criar diretório foo**
 mkdir foo
+
+## **5. (I) Criar foo/bar/1/2/3**
+mkdir -p foo/bar/1/2/3
+
+## **6. (B) Remover diretório foo**
+rm -r foo
+
+## **7. (B) Imprimir "Hello World"**
+echo "Hello World"
