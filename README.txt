@@ -193,3 +193,19 @@ BONUS: Create a challenge of your own and ask a friend to complete it.
 Congratulations! You've completed all of the challenges. If you haven't
 already, go back through and find different ways to do some of the challenges.
 Compare notes with a friend!
+
+
+--------------------------------------------------------------------------------------------------
+
+
+# Soluções dos Desafios de Linha de Comando Linux
+
+Este documento contém as soluções propostas para todos os 50 desafios (e bônus) do arquivo `README.txt` do pacote `command-line-challenges`.
+
+---
+
+## **1. (B) Extrair challenges.tar.gz**
+tar -xzf challenges.tar.gz
+
+## **2. (B) Entrar no diretório challenges**
+cd challenges
