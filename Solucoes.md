@@ -30,3 +30,6 @@ echo "Hello World" > hello.txt
 
 ## **9. (B) Criar empty.txt (vazio)**
 touch empty.txt
+
+## **10. (B) Remover empty.txt**
+rm empty.txt
