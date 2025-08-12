@@ -57,3 +57,6 @@ pwd
 
 ## **18. (B) Listar permissões**
 ls -l 
+
+## **19. (B) Adicionar texto em restricted.txt**
+echo "texto" >> restricted.txt
