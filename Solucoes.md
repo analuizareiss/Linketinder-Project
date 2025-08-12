@@ -117,4 +117,4 @@ tac README.txt
 cut -d, -f2 people.csv 
 
 ## **38. (A) Contar sobrenomes únicos**
-cut -d, -f2 people.csv | sort | uniq | wc -l
+cut -d, -f2 people.csv | sort | uniq | wc -l 
