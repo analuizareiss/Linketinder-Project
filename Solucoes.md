@@ -79,3 +79,6 @@ date
 
 ## **25. (B) Mostrar processos**
 ps aux 
+
+## **26. (B) Número de CPUs**
+nproc
