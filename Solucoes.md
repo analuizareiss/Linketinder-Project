@@ -85,3 +85,6 @@ nproc
 
 ## **27. (B) Versão do kernel**
 uname -r 
+
+## **28. (B) Encontrar arquivo com frase específica**
+grep -rl "You found the needle in the haystack!" bunch_of_files/
