@@ -130,4 +130,4 @@ time (tail -n +2 people.csv | cut -d, -f2 | sort | uniq | wc -l)
 time (cut -d, -f2 people.csv | sort -u | grep -v "last_name" | wc -l) 
 
 ## **42. (A) Contar pessoas com primeiro nome "Josiah"**
-grep -c "^Josiah," people.csv
+grep -c "^Josiah," people.csv 
