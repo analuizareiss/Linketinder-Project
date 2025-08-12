@@ -100,3 +100,6 @@ diff greeting1.txt greeting2.txt
 
 ## **32. (I) Hello -> esperar -> world**
 echo "Hello"; sleep 5; echo "world!"
+
+## **33. (I) Criar arquivo 1MB de zeros**
+dd if=/dev/zero of=zeros.bin bs=1M count=1
