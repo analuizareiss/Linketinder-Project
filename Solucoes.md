@@ -75,4 +75,4 @@ gcc compile_me.c -o compile_me && ./compile_me
 ./redirect > output.txt 2>&1 
 
 ## **24. (B) Mostrar data e hora**
-date
+date 
