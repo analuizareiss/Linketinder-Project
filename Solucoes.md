@@ -120,4 +120,7 @@ cut -d, -f2 people.csv
 cut -d, -f2 people.csv | sort | uniq | wc -l 
 
 ## **39. (A) Sem contar cabeçalho**
-tail -n +2 people.csv | cut -d, -f2 | sort | uniq | wc -l
+tail -n +2 people.csv | cut -d, -f2 | sort | uniq | wc -l 
+
+## **40. (A) Outra forma de ignorar cabeçalho**
+cut -d, -f2 people.csv | sort -u | grep -v "last_name" | wc -l
