@@ -81,4 +81,4 @@ date
 ps aux 
 
 ## **26. (B) Número de CPUs**
-nproc
+nproc 
