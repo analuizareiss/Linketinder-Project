@@ -103,3 +103,6 @@ echo "Hello"; sleep 5; echo "world!"
 
 ## **33. (I) Criar arquivo 1MB de zeros**
 dd if=/dev/zero of=zeros.bin bs=1M count=1 
+
+## **34. (I) Criar arquivo 2MB de dados aleatórios**
+dd if=/dev/urandom of=random.bin bs=1M count=2
