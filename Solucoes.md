@@ -72,4 +72,4 @@ chmod +x challenge_20
 gcc compile_me.c -o compile_me && ./compile_me 
 
 ## **23. (A) Redirecionar saída de redirect para output.txt**
-./redirect > output.txt 2>&1
+./redirect > output.txt 2>&1 
