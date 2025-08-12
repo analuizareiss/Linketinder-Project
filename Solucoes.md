@@ -76,3 +76,6 @@ gcc compile_me.c -o compile_me && ./compile_me
 
 ## **24. (B) Mostrar data e hora**
 date 
+
+## **25. (B) Mostrar processos**
+ps aux
