@@ -118,3 +118,6 @@ cut -d, -f2 people.csv
 
 ## **38. (A) Contar sobrenomes únicos**
 cut -d, -f2 people.csv | sort | uniq | wc -l 
+
+## **39. (A) Sem contar cabeçalho**
+tail -n +2 people.csv | cut -d, -f2 | sort | uniq | wc -l
