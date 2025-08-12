@@ -69,4 +69,4 @@ chmod +x challenge_20
 ./challenge_20
 
 ## **22. (B) Compilar e rodar compile_me.c**
-gcc compile_me.c -o compile_me && ./compile_me
+gcc compile_me.c -o compile_me && ./compile_me 
