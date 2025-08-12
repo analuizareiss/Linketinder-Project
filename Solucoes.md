@@ -82,3 +82,6 @@ ps aux
 
 ## **26. (B) Número de CPUs**
 nproc 
+
+## **27. (B) Versão do kernel**
+uname -r
