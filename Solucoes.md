@@ -108,4 +108,4 @@ dd if=/dev/zero of=zeros.bin bs=1M count=1
 dd if=/dev/urandom of=random.bin bs=1M count=2 
 
 ## **35. (I) Contar linhas em README.txt**
-wc -l README.txt
+wc -l README.txt 
