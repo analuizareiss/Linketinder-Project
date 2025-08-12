@@ -120,4 +120,4 @@ cut -d, -f2 people.csv
 cut -d, -f2 people.csv | sort | uniq | wc -l 
 
 ## **39. (A) Sem contar cabeçalho**
-tail -n +2 people.csv | cut -d, -f2 | sort | uniq | wc -l
+tail -n +2 people.csv | cut -d, -f2 | sort | uniq | wc -l 
