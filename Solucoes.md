@@ -134,3 +134,6 @@ grep -c "^Josiah," people.csv
 
 ## **43. (I) Contar apenas arquivos no challenges/**
 find challenges -type f | wc -l 
+
+## **44. (I) Contar subdiretórios**
+find challenges -type d | wc -l
