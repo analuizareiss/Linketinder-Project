@@ -62,4 +62,4 @@ ls -l
 echo "texto" >> restricted.txt 
 
 ## **20. (B) Executar hello_executable**
-./hello_executable
+./hello_executable 
