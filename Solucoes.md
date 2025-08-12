@@ -93,4 +93,7 @@ grep -rl "You found the needle in the haystack!" bunch_of_files/
 head -n 25 people.csv 
 
 ## **30. (B) Últimas 25 linhas**
-tail -n 25 people.csv
+tail -n 25 people.csv 
+
+## **31. (I) Mostrar diferenças entre greeting1.txt e greeting2.txt**
+diff greeting1.txt greeting2.txt
