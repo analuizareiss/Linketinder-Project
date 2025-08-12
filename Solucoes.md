@@ -78,4 +78,4 @@ gcc compile_me.c -o compile_me && ./compile_me
 date 
 
 ## **25. (B) Mostrar processos**
-ps aux
+ps aux 
