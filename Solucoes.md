@@ -140,3 +140,6 @@ find challenges -type d | wc -l
 
 ## **45. (I) Remover arquivos com "deleteme" no nome**
 rm deleteme 
+
+## **46. (I) Substituir frase no arquivo encontrado**
+sed -i 's/You found the needle in the haystack!/The needle has been removed./' "/home/seu_usuario/command-line-challenges/challenges/meuarquivo.txt"
