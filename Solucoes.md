@@ -84,4 +84,4 @@ ps aux
 nproc 
 
 ## **27. (B) Versão do kernel**
-uname -r
+uname -r 
