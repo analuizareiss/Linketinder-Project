@@ -34,3 +34,6 @@ touch empty.txt
 ## **10. (B) Remover empty.txt** 
 rm empty.txt
 
+## **11. (I) Segundo jeito de criar empty.txt**
+: > empty.txt
+
