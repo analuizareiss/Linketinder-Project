@@ -114,4 +114,4 @@ wc -l README.txt
 tac README.txt 
 
 ## **37. (I) Mostrar sobrenomes em people.csv**
-cut -d, -f2 people.csv
+cut -d, -f2 people.csv 
