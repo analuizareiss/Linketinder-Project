@@ -127,4 +127,4 @@ cut -d, -f2 people.csv | sort -u | grep -v "last_name" | wc -l
 
 ## **41. (A) Comparar eficiência**
 time (tail -n +2 people.csv | cut -d, -f2 | sort | uniq | wc -l)
-time (cut -d, -f2 people.csv | sort -u | grep -v "last_name" | wc -l)
+time (cut -d, -f2 people.csv | sort -u | grep -v "last_name" | wc -l) 
