@@ -66,4 +66,4 @@ echo "texto" >> restricted.txt
 
 ## **21. (B) Executar challenge_20**
 chmod +x challenge_20
-./challenge_20
+./challenge_20 
