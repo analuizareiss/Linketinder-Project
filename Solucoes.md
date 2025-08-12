@@ -63,3 +63,7 @@ echo "texto" >> restricted.txt
 
 ## **20. (B) Executar hello_executable**
 ./hello_executable 
+
+## **21. (B) Executar challenge_20**
+chmod +x challenge_20
+./challenge_20
