@@ -39,4 +39,6 @@ rm empty.txt
 
 ## **12. (I) Terceiro jeito**
 empty.txt
-  
+
+## **13. (B) Copiar hello.txt para goodbye.txt**
+cp hello.txt goodbye.txt
