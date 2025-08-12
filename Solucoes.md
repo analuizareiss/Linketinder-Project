@@ -87,4 +87,4 @@ nproc
 uname -r 
 
 ## **28. (B) Encontrar arquivo com frase específica**
-grep -rl "You found the needle in the haystack!" bunch_of_files/
+grep -rl "You found the needle in the haystack!" bunch_of_files/ 
