@@ -139,4 +139,4 @@ find challenges -type f | wc -l
 find challenges -type d | wc -l 
 
 ## **45. (I) Remover arquivos com "deleteme" no nome**
-rm deleteme
+rm deleteme 
