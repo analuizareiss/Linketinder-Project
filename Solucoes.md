@@ -54,3 +54,6 @@ cat hello.txt hello_copy.txt > 2_hellos.txt
  
 ## **17. (B) Mostrar caminho absoluto**
 pwd 
+
+## **18. (B) Listar permissões**
+ls -l
