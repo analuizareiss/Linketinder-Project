@@ -52,3 +52,5 @@ diff hello.txt hello_copy.txt
 ## **16. (B) Concatenar arquivos em 2_hellos.txt**
 cat hello.txt hello_copy.txt > 2_hellos.txt 
  
+## **17. (B) Mostrar caminho absoluto**
+pwd
