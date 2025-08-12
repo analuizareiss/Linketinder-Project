@@ -39,4 +39,4 @@ rm empty.txt
 
 ## **12. (I) Terceiro jeito**
 empty.txt
- 
+  
