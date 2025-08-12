@@ -56,4 +56,7 @@ cat hello.txt hello_copy.txt > 2_hellos.txt
 pwd 
 
 ## **18. (B) Listar permissões**
-ls -l
+ls -l 
+
+## **19. (B) Adicionar texto em restricted.txt**
+echo "texto" >> restricted.txt
