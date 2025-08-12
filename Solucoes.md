@@ -87,4 +87,7 @@ nproc
 uname -r 
 
 ## **28. (B) Encontrar arquivo com frase específica**
-grep -rl "You found the needle in the haystack!" bunch_of_files/
+grep -rl "You found the needle in the haystack!" bunch_of_files/ 
+
+## **29. (B) Primeiras 25 linhas de people.csv**
+head -n 25 people.csv
