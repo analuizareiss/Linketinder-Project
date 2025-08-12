@@ -111,4 +111,4 @@ dd if=/dev/urandom of=random.bin bs=1M count=2
 wc -l README.txt 
 
 ## **36. (B) Mostrar README invertido**
-tac README.txt
+tac README.txt 
