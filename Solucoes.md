@@ -59,4 +59,7 @@ pwd
 ls -l 
 
 ## **19. (B) Adicionar texto em restricted.txt**
-echo "texto" >> restricted.txt
+echo "texto" >> restricted.txt 
+
+## **20. (B) Executar hello_executable**
+./hello_executable
