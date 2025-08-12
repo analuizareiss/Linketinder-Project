@@ -97,3 +97,6 @@ tail -n 25 people.csv
 
 ## **31. (I) Mostrar diferenças entre greeting1.txt e greeting2.txt**
 diff greeting1.txt greeting2.txt 
+
+## **32. (I) Hello -> esperar -> world**
+echo "Hello"; sleep 5; echo "world!"
