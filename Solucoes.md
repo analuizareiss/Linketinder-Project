@@ -109,3 +109,6 @@ dd if=/dev/urandom of=random.bin bs=1M count=2
 
 ## **35. (I) Contar linhas em README.txt**
 wc -l README.txt 
+
+## **36. (B) Mostrar README invertido**
+tac README.txt
