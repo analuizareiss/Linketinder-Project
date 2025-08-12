@@ -47,4 +47,5 @@ cp hello.txt goodbye.txt
 mv goodbye.txt hello_copy.txt 
 
 ## **15. (I) Verificar se arquivos são idênticos**
-diff hello.txt hello_copy.txt
+diff hello.txt hello_copy.txt 
+
