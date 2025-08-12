@@ -90,4 +90,7 @@ uname -r
 grep -rl "You found the needle in the haystack!" bunch_of_files/ 
 
 ## **29. (B) Primeiras 25 linhas de people.csv**
-head -n 25 people.csv
+head -n 25 people.csv 
+
+## **30. (B) Últimas 25 linhas**
+tail -n 25 people.csv
