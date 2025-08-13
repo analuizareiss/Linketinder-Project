@@ -148,4 +148,4 @@ sed -i 's/You found the needle in the haystack!/The needle has been removed./' "
 sed 's/,/|/g' people.csv > people_pipe.csv 
 
 ## **48. (A) Encontrar arquivos duplicados de file001.rand**
-find bunch_of_files/ -type f ! -name file001.rand -exec cmp -s file001.rand {} ; -print 
+find bunch_of_files/ -type f ! -name file001.rand -exec cmp -s file001.rand {} ; -print  
