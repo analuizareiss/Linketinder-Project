@@ -143,3 +143,6 @@ rm deleteme
 
 ## **46. (I) Substituir frase no arquivo encontrado**
 sed -i 's/You found the needle in the haystack!/The needle has been removed./' "/home/seu_usuario/command-line-challenges/challenges/meuarquivo.txt" 
+
+## **47. (A) Converter CSV de vírgula para pipe**
+sed 's/,/|/g' people.csv > people_pipe.csv
