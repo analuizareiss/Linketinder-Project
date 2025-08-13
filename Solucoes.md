@@ -149,3 +149,7 @@ sed 's/,/|/g' people.csv > people_pipe.csv
 
 ## **48. (A) Encontrar arquivos duplicados de file001.rand**
 find bunch_of_files/ -type f ! -name file001.rand -exec cmp -s file001.rand {} ; -print 
+
+## **49. (A)**
+### Passo 1
+touch supercalifragilisticexpialidocious.txt
