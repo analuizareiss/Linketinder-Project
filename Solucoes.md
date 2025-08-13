@@ -152,4 +152,4 @@ find bunch_of_files/ -type f ! -name file001.rand -exec cmp -s file001.rand {} ;
 
 ## **49. (A)**
 ### Passo 1
-touch supercalifragilisticexpialidocious.txt
+touch supercalifragilisticexpialidocious.txt 
