@@ -154,4 +154,7 @@ find bunch_of_files/ -type f ! -name file001.rand -exec cmp -s file001.rand {} ;
 ### Passo 1
 touch supercalifragilisticexpialidocious.txt 
 ### Passo 2 (máx 5 caracteres)
-rm -f supercalifragilisticexpialidocious.txt
+rm -f supercalifragilisticexpialidocious.txt 
+
+## **50. (A) Criar arquivos a,b,c com 1,2,3**
+touch {a,b,c}-{1,2,3}.txt
