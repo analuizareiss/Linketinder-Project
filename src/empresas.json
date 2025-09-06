@@ -1,0 +1,67 @@
+[
+    {
+        "nome": "Arroz-Gostoso",
+        "competencias": [
+            "Python",
+            "Java"
+        ],
+        "cep": "01000-000",
+        "descricao": "Empresa aliment\u00edcia",
+        "email": "contato@arrozgostoso.com",
+        "estado": "SP",
+        "cpfOuCnpj": "12.345.678/0001-90",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Imp\u00e9rio do Boliche",
+        "competencias": [
+            "Angular",
+            "JavaScript"
+        ],
+        "cep": "22000-000",
+        "descricao": "Entretenimento",
+        "email": "contato@imperiodoboliche.com",
+        "estado": "RJ",
+        "cpfOuCnpj": "98.765.432/0002-21",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Tech Soft",
+        "competencias": [
+            "Java",
+            "Spring Framework"
+        ],
+        "cep": "30000-000",
+        "descricao": "Desenvolvimento de software",
+        "email": "rh@techsoft.com",
+        "estado": "MG",
+        "cpfOuCnpj": "45.678.901/0001-12",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Data Science",
+        "competencias": [
+            "Python",
+            "Spark"
+        ],
+        "cep": "90000-000",
+        "descricao": "Consultoria em dados",
+        "email": "contato@datascience.com",
+        "estado": "RS",
+        "cpfOuCnpj": "32.109.876/0001-34",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Market Web",
+        "competencias": [
+            "JavaScript",
+            "Angular"
+        ],
+        "cep": "40000-000",
+        "descricao": "Marketing digital",
+        "email": "contact@marketweb.com",
+        "estado": "BA",
+        "cpfOuCnpj": "56.123.789/0001-56",
+        "pais": "Brasil"
+    }
+]

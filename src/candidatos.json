@@ -1,0 +1,67 @@
+[
+    {
+        "nome": "Ana Silva",
+        "competencias": [
+            "Java",
+            "Spring Framework"
+        ],
+        "idade": 28,
+        "cep": "01001-000",
+        "descricao": "Desenvolvedora backend",
+        "email": "ana@email.com",
+        "estado": "SP",
+        "cpfOuCnpj": "123.456.789-00"
+    },
+    {
+        "nome": "Carlos Souza",
+        "competencias": [
+            "Angular",
+            "JavaScript"
+        ],
+        "idade": 35,
+        "cep": "22040-001",
+        "descricao": "Frontend developer",
+        "email": "carlos@email.com",
+        "estado": "RJ",
+        "cpfOuCnpj": "456.789.123-44"
+    },
+    {
+        "nome": "Maria Oliveira",
+        "competencias": [
+            "Python",
+            "Spark"
+        ],
+        "idade": 30,
+        "cep": "30140-010",
+        "descricao": "Especialista em dados",
+        "email": "maria@email.com",
+        "estado": "MG",
+        "cpfOuCnpj": "789.123.456-20"
+    },
+    {
+        "nome": "Lucas Pereira",
+        "competencias": [
+            "Java",
+            "Angular"
+        ],
+        "idade": 40,
+        "cep": "90020-320",
+        "descricao": "Analista de sistemas",
+        "email": "lucas@email.com",
+        "estado": "RS",
+        "cpfOuCnpj": "321.654.987-30"
+    },
+    {
+        "nome": "Juliana Lima",
+        "competencias": [
+            "JavaScript",
+            "Spring Framework"
+        ],
+        "idade": 25,
+        "cep": "40010-020",
+        "descricao": "Developer fullstack",
+        "email": "juliana@email.com",
+        "estado": "BA",
+        "cpfOuCnpj": "654.321.987-11"
+    }
+]
